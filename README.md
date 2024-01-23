@@ -13,4 +13,8 @@ In our case study, we will be working on a churn dataset. Churned Customers are 
 
 ## Data Description 
 
-This data provides information about a video streaming service company, where they want to predict if the customer will churn or not. The CSV consists of around 2000 rows and 16 columns
+This data provides information about a video streaming service company, where they want to predict if the customer will churn or not. The CSV consists of around 2000 rows and 16 columns.
+
+## Aim
+
+To build ensemble models like Random Forest, Adaboost, and Gradient boosting models on the given dataset to determine whether the customer will churn or not.
