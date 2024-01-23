@@ -10,7 +10,7 @@ Bagging is a homogeneous weak learners’ model that learns from each other inde
 
 Boosting is also a homogeneous weak learners’ model but works differently from Bagging. In this model, learners learn sequentially and adaptively to improve model predictions of a learning algorithm. The AdaBoost and Gradient Boosting use Boosting techniques.
 
-In our case study, we will be working on a churn dataset. Churned Customers are those who have decided to end their relationship with their existing company. XYZ is a service-providing company that provides customers with a one-year subscription plan for their product. The company wants to know if the customers will renew the subscription for the coming year or not.
+In our case study, we will be working on a churn dataset. Churned Customers are those who have decided to end their relationship with their existing company. XYZ is a service-providing company that provides customers with a one-year subscription plan for their product. The company wants to know if the customers will renew the subscriptions for the coming year or not.
 
 ## Data Description 
 
